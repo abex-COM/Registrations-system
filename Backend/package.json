@@ -1,0 +1,15 @@
+{
+  "name": "registartion",
+  "version": "1.0.0",
+  "description": "this is to register students",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.json"
+  },
+  "author": "Abdulaki Mustefa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}

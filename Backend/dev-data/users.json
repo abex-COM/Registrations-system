@@ -1,0 +1,114 @@
+[
+  {
+    "id": 16,
+    "firstName": "Mustafa",
+    "lastName": "Hameed",
+    "password": "mustafa2023",
+    "gender": "male",
+    "email": "mustafa@example.com"
+  },
+  {
+    "id": 17,
+    "firstName": "Rania",
+    "lastName": "Usman",
+    "password": "rania2023",
+    "gender": "female",
+    "email": "rania@example.com"
+  },
+  {
+    "id": 19,
+    "firstName": "Kadir",
+    "lastName": "Jamaal",
+    "password": "zaid2023",
+    "gender": "male",
+    "email": "zaid@example.com"
+  },
+  {
+    "id": 27,
+    "firstName": "Kadir",
+    "lastName": "Jamaal",
+    "password": "zaid2023",
+    "gender": "male",
+    "email": "zaid@example.com"
+  },
+  {
+    "id": 30,
+    "firstName": "Abdu",
+    "lastName": "Jamaal",
+    "password": "zaid2023",
+    "gender": "male",
+    "email": "zaid@example.com"
+  },
+  {
+    "id": 31,
+    "firstName": "Abdulhaq",
+    "lastName": "Mustefa",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "12",
+    "confirmPassword": "12",
+    "gender": "male"
+  },
+  {
+    "id": 32,
+    "firstName": "Abdulhaq",
+    "lastName": "Seleman",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "44",
+    "confirmPassword": "44",
+    "gender": "male"
+  },
+  {
+    "id": 33,
+    "firstName": "Abdulhaq",
+    "lastName": "Seleman",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "44",
+    "confirmPassword": "44",
+    "gender": "male"
+  },
+  {
+    "id": 34,
+    "firstName": "Abdulhaq",
+    "lastName": "Seleman",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "44",
+    "confirmPassword": "44",
+    "gender": "male"
+  },
+  {
+    "id": 35,
+    "firstName": "Jamiilaa",
+    "lastName": "Dula",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "1234",
+    "confirmPassword": "1234",
+    "gender": "male"
+  },
+  {
+    "id": 36,
+    "firstName": "Dula",
+    "lastName": "Mustefa",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "1213",
+    "confirmPassword": "1213",
+    "gender": ""
+  },
+  {
+    "id": 37,
+    "firstName": "Abdulhaq",
+    "lastName": "Dula",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "12",
+    "confirmPassword": "12",
+    "gender": "male"
+  },
+  {
+    "id": 38,
+    "firstName": "Jamiilaa",
+    "lastName": "Inverstigator",
+    "email": "abdulakimustefa@gmail.com",
+    "password": "11",
+    "confirmPassword": "11",
+    "gender": "male"
+  }
+]
